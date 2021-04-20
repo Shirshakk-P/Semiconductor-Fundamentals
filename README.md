@@ -10,3 +10,6 @@ Reference Book:
 
 ![scdf](https://user-images.githubusercontent.com/32801148/105860650-cf177c00-6013-11eb-811e-dd45139267a4.jpeg)
 
+Author:
+
+    SHIRSHAKK PURKAYASTHA
